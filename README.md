@@ -28,6 +28,9 @@ What are you waiting for, let's *work together* :telescope:
 <img align="left" alt="Git" width="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+<br />
+
 ---
 
 #### If you want to contact me, visit my portfolio [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
