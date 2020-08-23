@@ -6,7 +6,7 @@ What are you waiting for, let's *work together* :telescope:
 ---
 
 ### Random facts about me:
-+ :wrench: I’m currently working on my portfolio
++ :wrench: I’m currently working on my Vue & Firebase web-app
 + :computer: I’m currently specializing in the **MEVN stack**
 + :speech_balloon: I love discussing with other developers about mutual interests
 + :bulb: I'm creative and pretty innovative person
