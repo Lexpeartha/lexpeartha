@@ -1,4 +1,4 @@
-## Hey, I'm a freelancer and a Full-stack Web Developer 👋
+## Hey, I'm a passionate CS student and Full-stack Web Developer 👋
 I am a passionate CS student that's pushing through to become a full-stack web developer!
 I've worked with a lot of technologies(more of which you can check below), and I really enjoy making web a better place!
 What are you waiting for, let's *work together* :telescope:
