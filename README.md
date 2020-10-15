@@ -6,8 +6,8 @@ What are you waiting for, let's *work together* :telescope:
 ---
 
 ### Random facts about me:
-+ :wrench: I’m currently working on my portflio
-+ :computer: I’m currently specializing in the **MEVN stack**
++ :wrench: I’m currently working on projects to fill my portflio
++ :computer: I’m specializing in the **MEVN stack**
 + :speech_balloon: I love discussing with other developers about mutual interests
 + :bulb: I'm creative and pretty innovative person
 + :books: I have **[portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
