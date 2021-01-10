@@ -1,16 +1,16 @@
 ## Hey, I'm a passionate CS student and Full-stack Web Developer 👋
-I am a passionate CS student that's pushing through to become a full-stack web developer! <br />
+I am a passionate computer geek that's pushing through to become a full-stack web developer! <br />
 I've worked with a lot of technologies(more of which you can check below), and I really enjoy making web a better place!
 What are you waiting for, let's *work together* :telescope:
 
 ---
 
 ### Random facts about me:
-+ :wrench: I’m currently working on projects to fill my portflio
++ :wrench: I’m currently looking for part-time job and freelance gigs to work on
 + :computer: I’m specializing in the **MEVN stack**
 + :speech_balloon: I love discussing with other developers about mutual interests
 + :bulb: I'm creative and pretty innovative person
-+ :books: I have **[portfolio](https://www.lexpeartha.com)**
++ :books: I have **[portfolio](https://www.lexpeartha.com/)**
 + :guitar: I also play acoustic guitar
 
 ---
@@ -33,4 +33,4 @@ What are you waiting for, let's *work together* :telescope:
 
 ---
 
-#### If you want to contact me, visit my portfolio [here](https://www.lexpeartha.com)
+#### If you want to contact me, visit my portfolio [here](https://www.lexpeartha.com/)
