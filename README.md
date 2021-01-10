@@ -26,7 +26,6 @@ What are you waiting for, let's *work together* :telescope:
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png" />
 <img align="left" alt="Shopify" width="26px" src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" />
 <img align="left" alt="Git" width="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
