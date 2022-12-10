@@ -19,7 +19,6 @@ Always _creating something aspiring_ :telescope:
 ### Random facts about me:
 
 - :wrench: Actively maintaing [nuxt-xstate](https://github.com/Lexpeartha/nuxt-xstate) module
-- :computer: Proficient at building and designing scalable software (I love UML :heart:)
 - :memo: I have my **[personal website](https://www.lexpeartha.com/)**
 - :books: I love reading books - be it tech, sci-fi or self-help
 
