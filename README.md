@@ -15,7 +15,7 @@ I specialize in building scalable applications with JavaScript and working with 
 ## 🌟 Featured Projects
 
 - Creator of [nuxt-xstate](https://github.com/Lexpeartha/nuxt-xstate)
-- Contributor of [@nuxtjs/ionic](https://github.com/nuxt-modules/ionic) and [dkg-node](https://github.com/OriginTrail/dkg-node)https://github.com/OriginTrail/dkg-node
+- Contributor of [@nuxtjs/ionic](https://github.com/nuxt-modules/ionic) and [dkg-node](https://github.com/OriginTrail/dkg-node)
 
 ## 📫 Contact Me
 
