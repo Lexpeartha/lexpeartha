@@ -1,45 +1,26 @@
-## Hey, I'm a Software Engineering student and Developer 👋
+# Hi there, I'm Aleksa 👋
 
-[![wakatime](https://wakatime.com/badge/user/935fc03d-970a-48f7-99db-3af45cdc7fc6.svg)](https://wakatime.com/@935fc03d-970a-48f7-99db-3af45cdc7fc6)
-<a href="https://twitter.com/intent/follow?screen_name=lexpeartha">
-<img src="https://img.shields.io/twitter/follow/Lexpeartha?style=social&logo=twitter" alt="Follow me on Twitter">
-</a>
+## Full-Stack Software Engineer
 
-<br />
+I specialize in building scalable applications with JavaScript and working with AI/LLMs, knowledge graphs, and semantic web technologies.
 
-I am a passionate computer geek dabbling with all sorts of web technologies <br />
-I really enjoy making web a better place and making positive impact with my code <br />
-Always _creating something aspiring_ :telescope:
+## 🔧 My Skill Set
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lexpeartha&count_private=true&theme=dracula&show_icons=true)
+- **Full-stack development**: JavaScript (ES6+), TypeScript, React, Vue, Nuxt, React Native, Flutter
+- **Backend**: Node.js (Express, NestJS, Fastify), Deno (Hono)
+- **AI & Modern Data Technologies**: LangChain, RAG systems, knowledge graphs, semantic web (RDF, SPARQL), graph databases (Blazegraph, Neo4j), vector databases, PostgreSQL
+- **Web Technologies & APIs**: Modern CSS (TailwindCSS, SCSS/SASS), REST, GraphQL, WebSocket APIs
+- **Other Languages & Tools**: Python for ML/data science (scikit-learn, PyTorch), C/C++, C# & Godot game engine
 
----
+## 🌟 Featured Projects
 
-### Random facts about me:
+- Creator of [nuxt-xstate](https://github.com/Lexpeartha/nuxt-xstate)
+- Contributor of [@nuxtjs/ionic](https://github.com/nuxt-modules/ionic)
 
-- :wrench: Actively (kind of) maintaing [nuxt-xstate](https://github.com/Lexpeartha/nuxt-xstate) module
-- :memo: I have my **[personal website](https://www.lexpeartha.com/)**
-- :books: I love reading books - be it tech, sci-fi or self-help
+## 📫 Contact Me
 
----
+If you would like to reach out to me professionally for freelance work or other opportunities, you can do so via [my website](https://www.lexpeartha.com).
 
-### Tools I love using:
+## 🌟 Support My Work
 
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Neovim" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/6471485" />
-<img align="left" alt="Sass" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Vue.js" width="26px" height="26px" src="https://vuejs.org/images/logo.png" />
-<img align="left" alt="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="NestJS" width="26px" height="26px" src="https://docs.nestjs.com/assets/logo-small.svg" />
-
-<br />
-
----
-
-### PageSpeed statistics of my portfolio:
-
-<img align="center" src="/stats.svg" />
-
-#### If you want to contact me, visit my portfolio contact page [here](https://www.lexpeartha.com/contact-me)
+If you want to support my work, the best way to do that would be to follow me on [GitHub](https://www.github.com/Lexpeartha) and maybe star some of my projects!
